@@ -9,4 +9,9 @@ Author: SankariBharath
 3. Last seen code
 
 4. Attachments ( image, Audio, Video)
-5.Hiding last seen
+
+5. Hiding last seen
+
+6. adding Video call 
+
+7. Adding Audio call 
